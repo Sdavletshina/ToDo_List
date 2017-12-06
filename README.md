@@ -1,4 +1,4 @@
-<h1>Todo List</>
+<h1>Todo List</h1>
 <p>Todo list is a useful app that will help you manage your tasks.</p>
 <img src="https://rawgit.com/Sdavletshina/ToDo_List/master/ToDo.gif">
 <h2>User Stories:</h2>
